@@ -9,8 +9,9 @@ scrape of largest cities. Cheerio JS
 - Open browser to http://localhost:8081/scrape
 - Check terminal
 
-### Tutorial
-https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
+### References
+- https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
+- https://scotch.io/tutorials/scraping-the-web-with-node-js
 
 
 ### Data
